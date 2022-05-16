@@ -1,0 +1,176 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Violet Puffy Puffer",
+            "price": 10000,
+            "image": "./fotos-projecto/1.webp",
+            "category": "abrigos"
+        },
+        {
+            "id": 2,
+            "title": "Black Puffy Puffer",
+            "price": 10000,
+            "image": "./fotos-projecto/2.webp",
+            "category": "abrigos"
+        },
+        {
+            "id": 3,
+            "title": "Multi Anime Long T-Shirt",
+            "price": 4000,
+            "image": "./fotos-projecto/3.webp",
+            "category": "tops"
+        },
+        {
+            "id": 4,
+            "title": "Black Button Long Top",
+            "price": 2400,
+            "image": "./fotos-projecto/4.webp",
+            "category": "tops"
+        },
+        {
+            "id": 5,
+            "title": "Brown Button Long Top",
+            "price": 2400,
+            "image": "./fotos-projecto/5.webp",
+            "category": "tops"
+
+        },
+        {
+            "id": 6,
+            "title": "Black Midi Dress",
+            "price": 6000,
+            "image": "./fotos-projecto/6.webp",
+            "category": "vestidos"
+
+        },
+        {
+            "id": 7,
+            "title": "Mustard Midi Dress",
+            "price": 6000,
+            "image": "./fotos-projecto/7.webp",
+            "category": "vestidos"
+        },
+        {
+            "id": 8,
+            "title": "Brown Basic Top",
+            "price": 2000,
+            "image": "./fotos-projecto/8.webp",
+            "category": "tops"
+        },
+        {
+            "id": 9,
+            "title": "White Basic Top",
+            "price": 2000,
+            "image": "./fotos-projecto/9.webp",
+            "category": "tops"
+        },
+        {
+            "id": 10,
+            "title": "Black Party Dress",
+            "price": 8700,
+            "image": "./fotos-projecto/10.webp",
+            "category": "vestidos"
+        },
+        {
+            "id": 11,
+            "title": "Soft Violet Long Top",
+            "price": 3000,
+            "image": "./fotos-projecto/11.webp",
+            "category": "tops"
+        },
+        {
+            "id": 12,
+            "title": "Orange/Red Polar and Jogget Set",
+            "price": 11000,
+            "image": "./fotos-projecto/12.webp",
+            "category": "conjuntos"
+        },
+        {
+            "id": 13,
+            "title": "Violet Polar and Jogger set",
+            "price": 11000,
+            "image": "./fotos-projecto/13.webp",
+            "category": "conjuntos"
+        },
+        {
+            "id": 14,
+            "title": "Leather Fur Oversize Jacket",
+            "price": 20000,
+            "image": "./fotos-projecto/14.webp",
+            "category": "abrigos"
+        },
+        {
+            "id": 15,
+            "title": "White Neckless Top",
+            "price": 4000,
+            "image": "./fotos-projecto/15.webp",
+            "category": "tops"
+        },
+        {
+            "id": 16,
+            "title": "Olive Neckless Tops",
+            "price": 4000,
+            "image": "./fotos-projecto/16.webp",
+            "category": "tops"
+        },
+        {
+            "id": 17,
+            "title": "Basic Jean",
+            "price": 8500,
+            "image": "./fotos-projecto/17.webp",
+            "category": "partes de abajo"
+
+        },
+        {
+            "id": 18,
+            "title": "Black Leather Skirt",
+            "price": 6000,
+            "image": "./fotos-projecto/18.webp",
+            "category": "partes de abajo"
+
+        },
+        {
+            "id": 19,
+            "title": "",
+            "price": 60,
+            "image": "./fotos-projecto/1.webp",
+            "category": "rolex"
+        },
+        {
+            "id": 20,
+            "title": "",
+            "price": 35,
+            "image": "./fotos-projecto/1.webp",
+            "category": "omega"
+        },
+        {
+            "id": 21,
+            "title": "",
+            "price": 99,
+            "image": "./fotos-projecto/1.webp",
+            "category": "audemars"
+        },
+        {
+            "id": 22,
+            "title": "",
+            "price": 101,
+            "image": "./fotos-projecto/1.webp",
+            "category": "hublot"
+        },
+        {
+            "id": 23,
+            "title": "",
+            "price": 65,
+            "image": "./fotos-projecto/1.webp",
+            "category": "rolexDay"
+        },
+        {
+            "id": 24,
+            "title": "",
+            "price": 65,
+            "image": "./fotos-projecto/1.webp",
+            "category": "tag"
+        }
+    ]
+}
