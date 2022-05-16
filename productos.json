@@ -5,6 +5,8 @@
             "title": "Violet Puffy Puffer",
             "price": 10000,
             "image": "./fotos-projecto/1.webp",
+            "image2": "./fotos-projecto/1-2.webp",
+            "image3": "./fotos-projecto/1-3.webp",
             "category": "abrigos"
         },
         {
@@ -12,6 +14,9 @@
             "title": "Black Puffy Puffer",
             "price": 10000,
             "image": "./fotos-projecto/2.webp",
+            "image2": "./fotos-projecto/2-2.webp",
+            "image3": "./fotos-projecto/2-3.webp",
+
             "category": "abrigos"
         },
         {

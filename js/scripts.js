@@ -20,7 +20,12 @@ class UI {
 		filtroDato.forEach(producto => {
 			result += `
 			<article class="detalle-grid">
+				<div class="product-images">
 				<img src=${producto.image} alt="${producto.title}" class="img-fluid">
+				<img src=${producto.image2} class="img-fluid">
+				<img src=${producto.image3} class="img-fluid">
+				</div>
+				
 				<div class="detalles-content">
 					<h3>${producto.title}</h3>
 					<div class="rating">

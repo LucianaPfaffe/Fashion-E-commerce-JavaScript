@@ -57,6 +57,9 @@ li{
 }
 
 @media(min-width:375px){
+    header{
+        width: 100%;
+    }
     .nav{
         position: fixed;
         top: 0;
@@ -257,6 +260,9 @@ li{
     cursor: pointer;
     color: var(--black);
     transform: all 300ms ease-in-out;
+}
+.carrito .close__carrito:hover{
+    color: var(--red);
 }
 
 .buy__carrito{
@@ -476,6 +482,16 @@ li{
 }
 .detalles-content .description span{
     line-height: 2.8rem;
+}
+
+.product-images{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    column-gap: 3rem;
+}
+
+.product-images img:hover{
+    width: 50rem;
 }
 }
 @media (min-width: 1024px){
