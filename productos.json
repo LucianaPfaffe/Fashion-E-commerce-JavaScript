@@ -137,45 +137,45 @@
         },
         {
             "id": 19,
-            "title": "",
+            "title": "PROXIMAMENTE",
             "price": 60,
             "image": "./fotos-projecto/1.webp",
-            "category": "rolex"
+            "category": "exclusivo"
         },
         {
             "id": 20,
-            "title": "",
+            "title": "PROXIMAMENTE",
             "price": 35,
             "image": "./fotos-projecto/1.webp",
-            "category": "omega"
+            "category": "exclusivo"
         },
         {
             "id": 21,
-            "title": "",
+            "title": "PROXIMAMENTE",
             "price": 99,
             "image": "./fotos-projecto/1.webp",
-            "category": "audemars"
+            "category": "exclusivo"
         },
         {
             "id": 22,
-            "title": "",
+            "title": "PROXIMAMENTE",
             "price": 101,
             "image": "./fotos-projecto/1.webp",
-            "category": "hublot"
+            "category": "exclusivo"
         },
         {
             "id": 23,
-            "title": "",
+            "title": "PROXIMAMENTE",
             "price": 65,
             "image": "./fotos-projecto/1.webp",
-            "category": "rolexDay"
+            "category": "exclusivo"
         },
         {
             "id": 24,
-            "title": "",
+            "title": "PROXIMAMENTE",
             "price": 65,
             "image": "./fotos-projecto/1.webp",
-            "category": "tag"
+            "category": "exclusivo"
         }
     ]
 }
