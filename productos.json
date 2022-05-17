@@ -139,43 +139,43 @@
             "id": 19,
             "title": "PROXIMAMENTE",
             "price": 60,
-            "image": "./fotos-projecto/1.webp",
-            "category": "exclusivo"
+            "image": "./fotos-projecto/placeholder.jpg",
+            "category": "Exclusivos"
         },
         {
             "id": 20,
             "title": "PROXIMAMENTE",
             "price": 35,
-            "image": "./fotos-projecto/1.webp",
-            "category": "exclusivo"
+            "image": "./fotos-projecto/placeholder.jpg",
+            "category": "Exclusivos"
         },
         {
             "id": 21,
             "title": "PROXIMAMENTE",
             "price": 99,
-            "image": "./fotos-projecto/1.webp",
-            "category": "exclusivo"
+            "image": "./fotos-projecto/placeholder.jpg",
+            "category": "Exclusivos"
         },
         {
             "id": 22,
             "title": "PROXIMAMENTE",
             "price": 101,
-            "image": "./fotos-projecto/1.webp",
-            "category": "exclusivo"
+            "image": "./fotos-projecto/placeholder.jpg",
+            "category": "Exclusivos"
         },
         {
             "id": 23,
             "title": "PROXIMAMENTE",
             "price": 65,
-            "image": "./fotos-projecto/1.webp",
-            "category": "exclusivo"
+            "image": "./fotos-projecto/placeholder.jpg",
+            "category": "Exclusivos"
         },
         {
             "id": 24,
             "title": "PROXIMAMENTE",
             "price": 65,
-            "image": "./fotos-projecto/1.webp",
-            "category": "exclusivo"
+            "image": "./fotos-projecto/placeholder.jpg",
+            "category": "Exclusivos"
         }
     ]
 }

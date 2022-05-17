@@ -22,7 +22,7 @@ user.onclick =()=>{
 		})
 		
 		if (text) {
-		  Swal.fire("hola" +" " +text)
+		  Swal.fire("Hola" +" " +text)
 		  let nombreUsuario= document.createElement('p');
 			nombreUsuario.innerText= "Hola" + " " + text;
 			userDiv.append(nombreUsuario);
