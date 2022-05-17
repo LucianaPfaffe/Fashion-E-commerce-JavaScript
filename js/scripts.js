@@ -120,7 +120,19 @@ class UI {
 				e.preventDefault();
 				e.target.innerHTML = "En el carrito";
 				e.target.disabled = true;
-				
+				Toastify({
+					text: "Producto Agregado al carrito",
+					duration: 1500,
+					avatar:"http://pngimg.com/uploads/shopping_cart/shopping_cart_PNG46.png",
+					close: true,
+					gravity: "bottom", // `top` or `bottom`
+					position: "right", // `left`, `center` or `right`
+					stopOnFocus: true, // Prevents dismissing of toast on hover
+					style: {
+					  background: "#ecedef",
+					},
+					onClick: function(){} // Callback after click
+				  }).showToast();
 
 				// GET productos al carrito
 				const carritoItem = {...Storage.getProductos(id), cantidad: 1}
@@ -330,19 +342,5 @@ document.addEventListener("DOMContentLoaded", async () =>{
 })
 
 
-//detalles usuario
-let user= document.getElementById("user-icon");
-let userDiv= document.getElementById('user-div')
-user.onclick =()=>{
-	let usuario= prompt("Ingrese su nombre");
-	if (usuario!=""){
-		let nombreUsuario= document.createElement('p');
-		nombreUsuario.innerText= "Hola" + " " + usuario;
-		userDiv.append(nombreUsuario);
-		
-		
-	}
-	else{}
-	localStorage.setItem("Usuario", usuario);
 
-}
+

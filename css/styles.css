@@ -55,6 +55,9 @@ ul,
 li{
     list-style: none;
 }
+.banner img{
+    padding-top: 10rem;
+}
 
 @media(min-width:375px){
     header{
@@ -83,18 +86,12 @@ li{
         justify-content: space-around;
         height: 100%;
     }
-    nav #user-div{
-        padding-top: 13rem;
-        background-color: var(--middlewhite);
-        height: 200px;
-        align-items: center;
-        display: flex;
-        
-    }
+  
     #user-div p {
         text-transform: uppercase;
         color: var(--specialcolor);
         font-weight: 700;
+        margin-top: 2rem;
         margin-left: 3rem;
         font-size: 1.5rem;
     }
@@ -107,9 +104,10 @@ li{
         cursor: pointer;
     }
     .bx-user{
-        font-size: 2rem;
+        font-size: 3rem;
         cursor: pointer;
         margin-left: 6rem;
+        margin-top: 0.5rem;
     }
     
     .banner img{
@@ -272,6 +270,7 @@ li{
     color: var(--black);
     font-weight: 500;
     font-size: 2rem;
+    margin-top: 3rem;
     cursor: pointer;
     background-color: green;
     opacity: 0.8;
@@ -324,6 +323,9 @@ li{
 .carrito__footer{
     text-align: center;
     margin: 3rem;
+    display: flex;
+    flex-direction: column;
+
 }
 .carrito__footer .btn{
     display: inline-block;
@@ -499,14 +501,14 @@ li{
     .logo{
         width: 25rem;
     }
-    .burger-menu i {
+    .bx-menu {
         font-size: 4rem;
     }
     .bx-user{
         font-size: 3rem;
     }
     .banner img{
-        height: 250px;
+        height: 100%
         
     }
     .main-title{
