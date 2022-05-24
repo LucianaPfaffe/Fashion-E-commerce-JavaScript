@@ -23,11 +23,8 @@ user.onclick =()=>{
 		
 		if (text) {
 		  Swal.fire("Hola" +" " +text)
-		  let nombreUsuario= document.createElement('p');
-			nombreUsuario.innerText= "Hola" + " " + text;
-			userDiv.append(nombreUsuario);
+		
 		}
-		else{}
 	localStorage.setItem("Usuario", text);
 		
 		
@@ -35,30 +32,7 @@ user.onclick =()=>{
 		
 }
 
-// Mensaje antes de comprar
-let comprar= document.getElementById('buy__productos');
-comprar.onclick=()=>{
-	(async () => {
 
-		const { value: accept } = await Swal.fire({
-		  title: 'Terminos y condiciones',
-		  input: 'checkbox',
-		  inputValue: 1,
-		  inputPlaceholder:
-			'Antes de seguir con la compra, acepto los terminos y condiciones',
-		  confirmButtonText:
-			'Continue <i class="fa fa-arrow-right"></i>',
-		  inputValidator: (result) => {
-			return !result && 'Debe aceptar los terminos y condiciones si desea seguir'
-		  }
-		})
-		
-		if (accept) {
-		  Swal.fire('Usted ha aceptado los terminos y condiciones :)')
-		}
-		
-		})()
-}
 
 
 
