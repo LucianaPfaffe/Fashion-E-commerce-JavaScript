@@ -103,44 +103,62 @@
         },
         {
             "id": 11,
-            "title": "Soft Violet Long Top",
+            "title": "Metal Translucid Long Top",
             "price": 3000,
             "image": "./fotos-projecto/11.webp",
+            "image2": "./fotos-projecto/11-2.webp",
+            "image3": "./fotos-projecto/11-3.webp",
+
             "category": "tops"
         },
         {
             "id": 12,
-            "title": "Orange/Red Polar and Jogget Set",
+            "title": "White Polar and Jogget Set",
             "price": 11000,
             "image": "./fotos-projecto/12.webp",
+            "image2": "./fotos-projecto/12-2.webp",
+            "image3": "./fotos-projecto/12-3.webp",
+
             "category": "conjuntos"
         },
         {
             "id": 13,
-            "title": "Violet Polar and Jogger set",
+            "title": "Black Polar and Jogger set",
             "price": 11000,
             "image": "./fotos-projecto/13.webp",
+            "image2": "./fotos-projecto/13-2.webp",
+            "image3": "./fotos-projecto/13-3.webp",
+
             "category": "conjuntos"
         },
         {
             "id": 14,
-            "title": "Leather Fur Oversize Jacket",
+            "title": "Leather Red Fur Jacket",
             "price": 20000,
             "image": "./fotos-projecto/14.webp",
+            "image2": "./fotos-projecto/14-2.webp",
+            "image3": "./fotos-projecto/14-3.webp",
+
             "category": "abrigos"
         },
         {
             "id": 15,
-            "title": "White Neckless Top",
+            "title": "White Alaska T-shirt",
             "price": 4000,
             "image": "./fotos-projecto/15.webp",
+            "image2": "./fotos-projecto/15-2.webp",
+            "image3": "./fotos-projecto/15-3.webp",
+
             "category": "tops"
         },
         {
             "id": 16,
-            "title": "Olive Neckless Tops",
+            "title": "Brown Alaska T-shirt",
             "price": 4000,
             "image": "./fotos-projecto/16.webp",
+            "image2": "./fotos-projecto/16-2.webp",
+            "image3": "./fotos-projecto/16-3.webp",
+
             "category": "tops"
         },
         {
@@ -148,6 +166,9 @@
             "title": "Basic Jean",
             "price": 8500,
             "image": "./fotos-projecto/17.webp",
+            "image2": "./fotos-projecto/17-2.webp",
+            "image3": "./fotos-projecto/17-3.webp",
+
             "category": "partes de abajo"
 
         },
@@ -156,49 +177,70 @@
             "title": "Black Leather Skirt",
             "price": 6000,
             "image": "./fotos-projecto/18.webp",
+            "image2": "./fotos-projecto/18-2.webp",
+            "image3": "./fotos-projecto/18-3.webp",
+
             "category": "partes de abajo"
 
         },
         {
             "id": 19,
             "title": "PROXIMAMENTE",
-            "price": "-",
-            "image": "./fotos-projecto/placeholder.jpg",
+            "price": "5000",
+            "image": "./fotos-projecto/19.webp",
+            "image2": "./fotos-projecto/19-2.webp",
+            "image3": "./fotos-projecto/19-3.webp",
+
             "category": "Exclusivos"
         },
         {
             "id": 20,
             "title": "PROXIMAMENTE",
-            "price": "-",
-            "image": "./fotos-projecto/placeholder.jpg",
+            "price": "4500",
+            "image": "./fotos-projecto/20.webp",
+            "image2": "./fotos-projecto/20-2.webp",
+            "image3": "./fotos-projecto/20-3.webp",
+
             "category": "Exclusivos"
         },
         {
             "id": 21,
             "title": "PROXIMAMENTE",
-            "price": "-",
-            "image": "./fotos-projecto/placeholder.jpg",
+            "price": "9000",
+            "image": "./fotos-projecto/21.webp",
+            "image2": "./fotos-projecto/21-2.webp",
+            "image3": "./fotos-projecto/21-3.webp",
+
             "category": "Exclusivos"
         },
         {
             "id": 22,
             "title": "PROXIMAMENTE",
-            "price": "-",
-            "image": "./fotos-projecto/placeholder.jpg",
+            "price": "3000",
+            "image": "./fotos-projecto/22.webp",
+            "image2": "./fotos-projecto/22-2.webp",
+            "image3": "./fotos-projecto/22-3.webp",
+
             "category": "Exclusivos"
         },
         {
             "id": 23,
             "title": "PROXIMAMENTE",
-            "price": "-",
-            "image": "./fotos-projecto/placeholder.jpg",
+            "price": "7000",
+            "image": "./fotos-projecto/23.webp",
+            "image2": "./fotos-projecto/23-2.webp",
+            "image3": "./fotos-projecto/23-3.webp",
+
             "category": "Exclusivos"
         },
         {
             "id": 24,
             "title": "PROXIMAMENTE",
-            "price": "-",
-            "image": "./fotos-projecto/placeholder.jpg",
+            "price": "8000",
+            "image": "./fotos-projecto/24.webp",
+            "image2": "./fotos-projecto/24-2.webp",
+            "image3": "./fotos-projecto/24-3.webp",
+
             "category": "Exclusivos"
         }
     ]

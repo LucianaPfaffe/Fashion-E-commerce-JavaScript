@@ -63,6 +63,7 @@ li{
     header{
         width: 100%;
     }
+    
     .nav{
         position: fixed;
         top: 0;
@@ -502,6 +503,7 @@ li{
 /*Pagina de compra*/
 .compra{
     padding-bottom: 10rem;
+    padding-top: 15rem;
 }
 .compra h2{
     font-size: 2.5rem;
@@ -525,8 +527,16 @@ form label{
     width: 100%;
     margin-top: 2rem;
 }
+#codeField, #nameField, #surNameField, #bornField, #idField{
+    width: 95%;
+}
 form input{
-    width: 100%;
+    width: 95%;
+    height: 3.5rem;
+    border: 3px solid var(--specialcolor);
+}
+form select{
+    width: 95%;
     height: 3.5rem;
     border: 3px solid var(--specialcolor);
 }
@@ -566,7 +576,9 @@ form button{
     margin: 3rem;
 }
 textarea{
-    width: 100%;
+    width: 95%;
+
+    border: 3px solid var(--specialcolor);
 }
 .check{
     width: 2rem;
@@ -580,6 +592,22 @@ textarea{
     width: 6rem;
     margin-left: 1rem;
 }
+#comprar{
+    width: 40%;
+    margin-top: 2rem;
+}
+#comprar:hover{
+    background-color: greenyellow;
+    border: none;
+}
+.logo-2 h2{
+    font-size: 4rem;
+}
+.logo-2 h5{
+    opacity: 0.9;
+    font-size: 2rem;
+}
+
 
 
 /*Extra*/
@@ -589,6 +617,69 @@ textarea{
     font-size: 3rem;
 }
 
+
+
+
+
+
+
+/*footer*/
+footer{
+    
+    background-color: var(--middlewhite);
+    padding: 3rem 0;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.social-media, .kuki-content{
+    display: grid;
+}
+.footer a{
+    margin-bottom: 1rem;
+    color: black;
+}
+.footer h3{
+    font-weight: 700;
+    font-size: 2rem;
+    color: var(--specialcolormobile);
+    margin-bottom: 2rem;
+}
+
+
+.footer a i{
+    font-size: 2rem;
+}
+.facebook{
+    color:#4267B2;
+}
+.instagram{
+    color:#E1306C;
+}
+.twitter{
+    color:#1DA1F2;
+}
+.footer a span{
+    font-family: 'Signika', sans-serif;;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+}
+.kuki-content a{
+    color: grey;
+}
+.kuki-content-2 p {
+    color: grey;
+    cursor: pointer;
+}
+.footer-final {
+    color: grey;
+    font-size: 1rem;
+    opacity: 0.8;
+}
 }
 @media (min-width: 1024px){
 
@@ -668,6 +759,7 @@ form button{
     background-color: var(--black);
     color: white;
 }
+
     
    
 
